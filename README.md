@@ -1,7 +1,7 @@
 # oss-audit-24BAI10443
 
 ## Student Details
-- **Name:** Kunal
+- **Name:** Kunal Kumar Mishra
 - **Roll Number:** 24BAI10443
 - **Course:** Open Source Software
 - **Chosen Software:** Python
