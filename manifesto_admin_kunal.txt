@@ -1,0 +1,8 @@
+Open Source Manifesto — admin_kunal — 31 March 2026
+
+I believe in the power of open source. Every day I use Python,
+a tool built freely by people who chose to share their work with the world.
+To me, freedom means choice — and that is exactly what open source represents.
+One day I will build a learning app and share it freely, because knowledge grows
+when it is given away. Standing on the shoulders of giants, I choose
+to be a giant for those who come after me.
